@@ -1,1 +1,2 @@
-# Personalized-Mobile-Video-Recommendation-Project
+# 모바일 행동 기반의 개인화 비디오 컨텐츠 추천 분석
+15th SAS 분석 챔피언십
